@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Shane-Wright1
-- 👀 I’m interested in Development, and learning how to create code which will be useful
-- 🌱 I’m currently learning C++ using multiple tools like Codecademy and learncpp
-- 💞️ I’m looking to observe for now until I am confident enough in my abilities that I feel I can be helpful to others
+- I’m interested in Development, and learning how to create code which will be useful.
+- I'm enrolled in a course on Software Development at University level.
+- I’m currently learning C# using multiple tools like Codecademy, and SoloLearn.
+- I’m looking to observe for now until I am confident enough in my abilities that I feel I can be helpful to others.
